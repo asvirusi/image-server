@@ -1,0 +1,11 @@
+{
+  "name": "image-server",
+  "version": "1.0.0",
+  "description": "image processing server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC"
+}
